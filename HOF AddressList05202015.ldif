@@ -1,0 +1,902 @@
+dn: cn=HOF Dennis Linderbaum,mail=D.Linderbaum@mchsi.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Dennis
+sn: HOF
+cn: HOF Dennis Linderbaum
+mozillaNickname: LJ & President
+mail: D.Linderbaum@mchsi.com
+mozillaSecondEmail: denny.linderbaum@unitypoint.org
+modifytimestamp: 1428760191
+telephoneNumber: 515-241-5996
+homePhone: (515) 243-3852 (work2)
+facsimiletelephonenumber: (515) 241-6996 (fax)
+mobile: (515) 205-3093
+street: 1440 Ingersoll  Avenue
+l: Des Moines
+st: IA
+postalCode: 50309
+title: President
+o: Iowa Health Foundation
+mozillaWorkUrl: http://www.iowahealthfoundation.org/
+
+dn: cn=HOF Ric Salyers,mail=ricrttn13@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Ric
+sn: Salyers
+cn: HOF Ric Salyers
+mail: ricrttn13@aol.com
+modifytimestamp: 1428599840
+mozillaCustom1: A Fan, Watched the Bombers at Bomber Park
+
+dn: cn=HOF Jim (Judy) Ciesielski,mail=bigc37c@mchsi.COM
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Jim
+sn: HOF
+cn: HOF Jim (Judy) Ciesielski
+mozillaNickname: "C" wife Judy
+mail: bigc37c@mchsi.COM
+modifytimestamp: 1428599840
+telephoneNumber: 210 Williston Ave, Waterloo 50702
+homePhone: (319) 232-4840
+mobile: (319) 240-3020
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Paul Burnett,mail=pburnett44@gmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Paul
+sn: HOF
+cn: HOF Paul Burnett
+mozillaNickname: Reggie
+mail: pburnett44@gmail.com
+mozillaSecondEmail: Mule_Dog@msn.COM
+modifytimestamp: 1428599840
+mobile: (319) 210-9693
+mozillaHomeStreet: 125 E. Boyson Rd. #305
+mozillaHomeLocalityName: Hiawatha
+mozillaHomeState: IA
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Al Rausch,mail=arausch@netins.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Al
+sn: HOF
+cn: HOF Al Rausch
+mail: arausch@netins.net
+modifytimestamp: 1428599840
+telephoneNumber: (319) 364-6143
+mozillaHomeCountryName: United States of America
+street: 119 Third St NE, Suite 333
+l: Cedar Rapids
+st: IA
+postalCode: 52401
+c: United States of America
+title: CLU, CHFC; Registered Representative
+ou: Rausch Financial Services, Inc.
+o: Member SIPC
+
+dn: cn=HOF Bob & Ann Best,mail=bobbest1126@yahoo.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Bob & Ann
+sn: HOF
+cn: HOF Bob & Ann Best
+mozillaNickname: via Son's email
+mail: bobbest1126@yahoo.com
+modifytimestamp: 1428599840
+telephoneNumber: 1805 Woodhaven Ames, Iowa 50010
+homePhone: (515) 232-4911
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Chuck Welker,mail=ChuckWelker@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Chuck
+sn: HOF
+cn: HOF Chuck Welker
+mail: ChuckWelker@aol.com
+nsAIMid: ChuckWelker
+modifytimestamp: 1428599840
+homePhone: (515) 262-2977
+mozillaHomeStreet: 4954 Stream Side Circle
+mozillaHomeLocalityName: Des Moines
+mozillaHomeState: IA
+mozillaHomePostalCode: 50317
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Doug Lindaman,mail=dlindaman@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Doug
+sn: HOF
+cn: HOF Doug Lindaman
+mail: dlindaman@hotmail.com
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Thomas & Kim Bakey,mail=bakeyt@wdmcs.org
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Thomas & Kim
+sn: HOF
+cn: HOF Thomas & Kim Bakey
+mail: bakeyt@wdmcs.org
+mozillaSecondEmail: tkbakey@msn.COM
+nsAIMid: kbakey@iowarealty.com
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Leroy Wegmann,mail=lwegmann@acromfg.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Leroy
+sn: HOF
+cn: HOF Leroy Wegmann
+mail: lwegmann@acromfg.com
+mozillaSecondEmail: wegmanngl@msn.com
+nsAIMid: Leroy & Margie
+modifytimestamp: 1428601068
+telephoneNumber: (319) 377-3291 or 319-393-2537
+homePhone: (319) 396-9402
+facsimiletelephonenumber: (319) 396-9178
+mobile: (319) 560-5254
+mozillaHomeStreet: 2480 Victoria Street
+mozillaHomeLocalityName: Marion
+mozillaHomeState: IA
+mozillaHomePostalCode: 52302
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Tom Topping,mail=tltopping@earthlink.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Tom
+sn: Topping
+cn: HOF Tom Topping
+mail: tltopping@earthlink.net
+nsAIMid: Tom Topping, Executive Director;Iowa Amateur Softball Association;1534 Penrose St.;Grinnell, IA 50112-1203
+modifytimestamp: 1428599840
+telephoneNumber: (641) 236-5766
+facsimiletelephonenumber: (641) 236-6779
+mozillaHomeCountryName: United States of America
+street: 1534 Penrose St.
+l: Grinnell
+st: IA
+postalCode: 50122
+c: United States of America
+o: Iowa Amateur Softball Association
+mozillaWorkUrl: http://www.softball.org/iowa
+
+dn: cn=HOF Wayne Fisher,mail=wpfisher48@gmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Wayne
+sn: Fisher
+cn: HOF Wayne Fisher
+mail: wpfisher48@gmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Sherron Kolb (Daughter of Curtis Hanson),mail=sherron_kolb@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Sherron
+sn: HOF
+cn: HOF Sherron Kolb (Daughter of Curtis Hanson)
+mail: sherron_kolb@hotmail.com
+modifytimestamp: 1428599840
+telephoneNumber: 3234 Pebble Brook Circle; Prescott, AZ 86303
+homePhone: (928) 443-5296
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Fred & Julie Jackson,mail=jacksonjulie2013@gmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Fred & Julie
+sn: HOF
+cn: HOF Fred & Julie Jackson
+mail: jacksonjulie2013@gmail.com
+modifytimestamp: 1428599840
+mobile: 678-324-7285
+mozillaHomeStreet: 403 Waverly Place
+mozillaHomeLocalityName: Woodstock
+mozillaHomeState: GA
+mozillaHomePostalCode: 30188
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Duane Murray,mail=Duane.Murray@dmu.edu
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Duane
+sn: HOF
+cn: HOF Duane Murray
+mail: Duane.Murray@dmu.edu
+modifytimestamp: 1428599840
+homePhone: (515) 223-8217
+mozillaHomeStreet: 1025 57th Street
+mozillaHomeLocalityName: West Des Moines
+mozillaHomeState: IA
+mozillaHomePostalCode: 50266
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=Ripperger, Randy,mail=RippergerR@wdmcs.org
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Randy
+sn: Ripperger
+cn: Ripperger, Randy
+mail: RippergerR@wdmcs.org
+modifytimestamp: 1428599840
+homePhone: 515-770-3452 Randy
+mobile: 515-770-3451 Mary
+mozillaHomeStreet: 1160 Woodland Av.
+mozillaHomeLocalityName: Cumming
+mozillaHomeState: IA
+mozillaHomePostalCode: 50061
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Bob Fontana,mail=bob.fontana@ankenyschools.org
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Bob
+sn: HOF
+cn: HOF Bob Fontana
+mail: bob.fontana@ankenyschools.org
+modifytimestamp: 1428599840
+homePhone: (319) 294-1151
+pager: 2372 Towne NE;  Cedar Rapids, IA 52402
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Roger & Wanda Buddin,mail=rrbuddin@yahoo.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Roger & Wanda
+sn: Buddin
+cn: HOF Roger & Wanda Buddin
+mail: rrbuddin@yahoo.com
+modifytimestamp: 1428599840
+mobile: 641-790-1940
+mozillaHomeStreet: 405 S 2nd St
+mozillaHomeLocalityName: Ollie
+mozillaHomeState: IA
+mozillaHomePostalCode: 52576
+mozillaHomeCountryName: United States of America
+c: United States of America
+mozillaHomeUrl: http://www.bigcountrykennel.com/training.htm
+description: Dan Mallin (our CF friend)
+
+dn: cn=HOF Bari (Bob's wife) Hoskins,mail=lyle_50322@yahoo.COM
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Bari
+sn: HOF
+cn: HOF Bari (Bob's wife) Hoskins
+mail: lyle_50322@yahoo.COM
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Mark Yates (son of Andy Yates),mail=bfrbear@austin.rr.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Mark
+sn: HOF
+cn: HOF Mark Yates (son of Andy Yates)
+mail: bfrbear@austin.rr.com
+modifytimestamp: 1428599840
+homePhone: (512) 252-7014
+mozillaHomeStreet: 14912 Bescott Dr.
+mozillaHomeLocalityName: Austin
+mozillaHomeState: TX
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Gary Christensen,mail=gchristensen@centurylink.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gary
+sn: HOF
+cn: HOF Gary Christensen
+mail: gchristensen@centurylink.net
+modifytimestamp: 1428599840
+mozillaHomeLocalityName: Winterset
+mozillaHomeState: IA
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Jan Helgeson (daughter of Maurice S. Reid - 1972 ),mail=helgeson11@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Jan
+sn: HOF
+cn: HOF Jan Helgeson (daughter of Maurice S. Reid - 1972 )
+mail: helgeson11@aol.com
+nsAIMid: helgeson11
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=Tom Peterson,mail=tom.peterson@uni.edu
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Tom
+sn: Peterson
+cn: Tom Peterson
+mail: tom.peterson@uni.edu
+mozillaSecondEmail: tom.peterson@cfu.net
+modifytimestamp: 1428681664
+telephoneNumber: (319) 273-6460
+homePhone: (319) 277-8224
+facsimiletelephonenumber: (319) 273-5836
+mobile: (319) 230-6904
+mozillaHomeStreet: 2706 Fandre Drive
+mozillaHomeLocalityName: Cedar Falls
+mozillaHomeState: IA
+mozillaHomePostalCode: 50613-6634
+mozillaHomeCountryName: United States of America
+c: United States of America
+description:: MjYzNCAtIDcgMS80IEF2ZS4gKE1jQ2x1cmcpCkNoZXRlaywgV0kgNTQ3MjgtNjMwOAo=
+
+dn: cn=HOF Dave Temple,mail=AGInsurance1002@MSN.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Dave
+sn: HOF
+cn: HOF Dave Temple
+mail: AGInsurance1002@MSN.com
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Kurt Packingham,mail=kpackingham@acromfg.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Kurt
+sn: HOF
+cn: HOF Kurt Packingham
+mail: kpackingham@acromfg.com
+modifytimestamp: 1428599840
+telephoneNumber: (319) 393-2537
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Maurice Reid,mail=morryreid@sbcglobal.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Maurice
+sn: HOF
+cn: HOF Maurice Reid
+mail: morryreid@sbcglobal.net
+modifytimestamp: 1428599840
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Roger Aceto,mail=vra1@msn.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Roger
+sn: HOF
+cn: HOF Roger Aceto
+mail: vra1@msn.com
+modifytimestamp: 1428599840
+homePhone: 515-253-0325
+mobile: 515-480-9506
+mozillaHomeStreet: 4201 - 82nd Street
+mozillaHomeLocalityName: Urbandale
+mozillaHomeState: IA
+mozillaHomePostalCode: 50322
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Linda Olson,mail=Geoly1@msn.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: HOF Linda
+sn: Olson
+cn: HOF Linda Olson
+mail: Geoly1@msn.com
+mozillaSecondEmail: GRAMLINDA1@MSN.COM
+modifytimestamp: 1428599840
+homePhone: 515-432-4841
+mozillaHomeStreet: 301 Tama St.
+mozillaHomeLocalityName: Boone
+mozillaHomeState: IA
+mozillaHomePostalCode: 50036
+
+dn: cn=HOF Tom Stokesbary,mail=Tom.Stokesbary@iowacourts.gov
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Tom
+sn: Stokesbary
+cn: HOF Tom Stokesbary
+mail: Tom.Stokesbary@iowacourts.gov
+modifytimestamp: 1428599840
+homePhone: (515) 257-8795
+mobile: 515-975-1064
+mozillaHomeStreet: 902 SE Sharon Drive
+mozillaHomeLocalityName: Ankeny
+mozillaHomeState: IA
+mozillaHomePostalCode: 50021
+
+dn: cn=HOF Todd Twachtmann,mail=tatwacht@rockwellcollins.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Todd
+sn: Twachtmann
+cn: HOF Todd Twachtmann
+mail: tatwacht@rockwellcollins.com
+mozillaSecondEmail: tdtwchtmnn@aol.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Robert Michael,mail=mikejigs@imonmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Robert
+sn: Michael
+cn: HOF Robert Michael
+mail: mikejigs@imonmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF DON BAILEY,mail=fredb4587@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: DON
+sn: BAILEY
+cn: HOF DON BAILEY
+mail: fredb4587@hotmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Al Rebling,mail=alli22rebel7@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Alan & Vicki
+sn: Rebling
+cn: HOF Al Rebling
+mail: alli22rebel7@hotmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Tarry Cory,mail=pac5549@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Tarry
+sn: Cory
+cn: HOF Tarry Cory
+mail: pac5549@aol.com
+modifytimestamp: 1428599840
+homePhone: (515) 210-9165
+
+dn: cn=HOF Dean Williams,mail=dwilly@frontiernet.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Dean
+sn: Williams
+cn: HOF Dean Williams
+mail: dwilly@frontiernet.net
+modifytimestamp: 1428599840
+
+dn: cn=HOF Al Van Dyke,mail=almillyvandyke@iowatelecom.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+cn: HOF Al Van Dyke
+mail: almillyvandyke@iowatelecom.net
+modifytimestamp: 1432142159
+
+dn: cn=HOF Jim McGrew,mail=mjwmcgrew@q.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Jim
+sn: McGrew
+cn: HOF Jim McGrew
+mail: mjwmcgrew@q.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Steven Kaiser,mail=skaiser7474@yahoo.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Steven
+sn: Kaiser
+cn: HOF Steven Kaiser
+mail: skaiser7474@yahoo.com
+modifytimestamp: 1428599840
+mozillaHomeStreet: 607 S. Jefferson St
+mozillaHomeLocalityName: Cuba City
+mozillaHomeState: WI
+mozillaHomePostalCode: 53807
+
+dn: cn=HOF C G (Duke) McCullough,mail=dukem8@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: C G (Duke)
+sn: McCullough
+cn: HOF C G (Duke) McCullough
+mail: dukem8@hotmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Darrel Zunkel,mail=jzunkel@gmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Darrel & Judy
+sn: Zunkel
+cn: HOF Darrel Zunkel
+mail: jzunkel@gmail.com
+modifytimestamp: 1429537733
+homePhone: (515) 292-0919
+mobile: 515-231-0525
+mozillaHomeStreet: 2603 Green Hills Drive
+mozillaHomeLocalityName: Ames
+mozillaHomeState: IA
+mozillaHomePostalCode: 50014
+mozillaHomeCountryName: United States of America
+c: United States of America
+
+dn: cn=HOF Dan Wakefield,mail=dwakefield@sauer-danfoss.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Dan
+sn: Wakefield
+cn: HOF Dan Wakefield
+mail: dwakefield@sauer-danfoss.com
+modifytimestamp: 1428599840
+telephoneNumber: 515-239-6229 
+street: 2800 E. 13th Street
+l: Ames
+st: IA
+postalCode: 50010
+title: S45 EngineeringTeam Leader
+o: Sauer-Danfoss
+
+dn: cn=HOF Wendell Blankenburg,mail=wblankenburg@hughes.net
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Wendell 
+sn: Blankenburg
+cn: HOF Wendell Blankenburg
+mail: wblankenburg@hughes.net
+modifytimestamp: 1428599840
+
+dn: cn=HOF Gary Alberhasky,mail=linalb65@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Gary
+sn: Alberhasky
+cn: HOF Gary Alberhasky
+mail: linalb65@aol.com
+modifytimestamp: 1428599840
+homePhone: 319-354-7128
+mozillaHomeStreet: 4274 Sioux Ave SE
+mozillaHomeLocalityName: Iowa City
+mozillaHomeState: IA
+mozillaHomePostalCode: 52240
+
+dn: cn=HOF Gregg Bosch,mail=gbosch@boschfinancialinc.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Greg
+sn: Bosch
+cn: HOF Gregg Bosch
+mail: gbosch@boschfinancialinc.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Francis Foley,mail=popcou@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Francis
+sn: Foley
+cn: HOF Francis Foley
+mail: popcou@hotmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Jerry & Diane Ralfs,mail=ralfsqaw@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Jerry & Diane
+sn: Ralfs
+cn: HOF Jerry & Diane Ralfs
+mail: ralfsqaw@hotmail.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Steve Zediker,mail=szediker@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Steve
+sn: Zediker
+cn: HOF Steve Zediker
+mail: szediker@aol.com
+modifytimestamp: 1428599840
+homePhone: 712-276-9911
+mobile: 712-490-8125
+mozillaHomeStreet: 3920 Stone Ave
+mozillaHomeLocalityName: Sioux City
+mozillaHomeState: IA
+mozillaHomePostalCode: 51106 
+
+dn: cn=HOF Floyd Hazelbaker,mail=fnjhazelb@live.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Floyd
+sn: Hazelbaker
+cn: HOF Floyd Hazelbaker
+mail: fnjhazelb@live.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF John Muench,mail=JohnAMuench@gmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: John & Stephanie
+sn: Muench
+cn: HOF John Muench
+mail: JohnAMuench@gmail.com
+modifytimestamp: 1428599840
+homePhone: 952-447-6186
+mobile: 612-310-5439
+mozillaHomeStreet: 3403 Glynwater Trail NW
+mozillaHomeLocalityName: Prior Lake
+mozillaHomeState: MN
+mozillaHomePostalCode: 55372
+
+dn: cn=HOF Dean Whitebreast,mail=dwhitebreast@hotmail.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Dean
+sn: Whitebreast
+cn: HOF Dean Whitebreast
+mail: dwhitebreast@hotmail.com
+modifytimestamp: 1428599840
+mobile: 641-485-8912
+mozillaHomeStreet: 3035 F Avenue
+mozillaHomeLocalityName: Montour
+mozillaHomeState: IA
+mozillaHomePostalCode: 50173
+
+dn: cn=HOF Sonny Kalishek,mail=bkalishek@live.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Sonny
+sn: Kalishek
+cn: HOF Sonny Kalishek
+mail: bkalishek@live.com
+modifytimestamp: 1428599840
+mobile: 507-438-1439
+mozillaHomeStreet: 1953 - 190th Street
+mozillaHomeLocalityName: New Hampton
+mozillaHomeState: IA
+mozillaHomePostalCode: 50659
+
+dn: cn=HOF Pete Sandman,mail=pspedro13@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Pete
+sn: Sandman
+cn: HOF Pete Sandman
+mail: pspedro13@aol.com
+modifytimestamp: 1428599840
+homePhone: 712-258-1687
+mobile: 712-251-2275
+mozillaHomeStreet: 2183 Heights Avenue
+mozillaHomeLocalityName: Sioux City
+mozillaHomeState: IA
+mozillaHomePostalCode: 51104
+
+dn: cn=HOF Kevin Hartwig,mail=WinBuckSht@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Kevin
+sn: Hartwig
+cn: HOF Kevin Hartwig
+mail: WinBuckSht@aol.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Gene Olson,mail=swede1940@outlook.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: HOF Gene
+sn: Olson
+cn: HOF Gene Olson
+mail: swede1940@outlook.com
+modifytimestamp: 1428599840
+homePhone: 515-432-4841
+mozillaHomeStreet: 301 Tama St.
+mozillaHomeLocalityName: Boone
+mozillaHomeState: IA
+mozillaHomePostalCode: 50036
+
+dn: cn=HOF Michael Tranel,mail=michael.tranel@rockwellcollins.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Michael
+sn: Tranel
+cn: HOF Michael Tranel
+mail: michael.tranel@rockwellcollins.com
+modifytimestamp: 1428599840
+
+dn: cn=HOF Denny Delorit,mail=ddelorit@aol.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Denny
+sn: Delorit
+cn: HOF Denny Delorit
+mail: ddelorit@aol.com
+modifytimestamp: 0
+
